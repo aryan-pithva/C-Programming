@@ -29,6 +29,7 @@ int main(){
         printf("Enter Valid Input. \n");
     }
 
+    //printing details
     printf("\n\n");
     printf("--------------------Bill--------------------\n");
     printf("Customer Name: ");
