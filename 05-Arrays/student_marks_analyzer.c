@@ -78,7 +78,7 @@ int main(){
     printf("C Grade: %d\n", C);
     printf("D Grade: %d\n", D);
     printf("F Grade: %d\n", F);
-    printf("-----------------------------------------------\n");
+    printf("----------------------------------------------\n");
     
 
     return 0;
