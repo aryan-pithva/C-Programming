@@ -29,7 +29,7 @@ int main(){
     int pass_count = 0, fail_count =0;
     int A=0,B=0,C=0,D=0,F = 0;
     
-    printf("----------------------------------\n\n");
+    printf("-----------------------------------\n\n");
 
     printf("Marks:\n");
     for(int i = 0; i <num_of_students; i++){
